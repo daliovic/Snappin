@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snappin", "..\Snappin Template\Snappin.csproj", "{26CD8C64-EEAE-49F5-B3FA-405D98344DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26CD8C64-EEAE-49F5-B3FA-405D98344DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CD8C64-EEAE-49F5-B3FA-405D98344DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CD8C64-EEAE-49F5-B3FA-405D98344DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CD8C64-EEAE-49F5-B3FA-405D98344DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9E0FD4-EA0D-4050-B8A6-D3CDC72D13EF}
+	EndGlobalSection
+EndGlobal
